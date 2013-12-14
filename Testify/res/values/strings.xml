@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Testify</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_next">Next</string>
+    <string name="title_activity_result">Results!!!</string>
+    <string name="Start_button1">Aptitude Test</string>
+    <string name="Start_button2">C,C++,Java</string>
+    <string name="Start_button3">Exit</string>
+    <string name="activity_quiz_radio">radio</string>
+    <string name="activity_quiz_text">Large Text</string>
+    <string name="activity_quiz_button">Next</string>
+
+</resources>
